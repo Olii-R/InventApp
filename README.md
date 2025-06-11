@@ -1,6 +1,6 @@
 # inwentaryzacja_pbs
 
-This template should help get you started developing with Vue 3 in Vite.
+This is my simple Uni project. Inventory Management with Barcode Scanner that uses the ZXing library to decode barcode formats.
 
 ## Recommended IDE Setup
 
